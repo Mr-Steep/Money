@@ -1,0 +1,6 @@
+C:\Users\Mr.Steep\source\repos\Money\bin\Debug\Money.exe.config
+C:\Users\Mr.Steep\source\repos\Money\bin\Debug\Money.exe
+C:\Users\Mr.Steep\source\repos\Money\bin\Debug\Money.pdb
+C:\Users\Mr.Steep\source\repos\Money\obj\Debug\Money.csprojAssemblyReference.cache
+C:\Users\Mr.Steep\source\repos\Money\obj\Debug\Money.exe
+C:\Users\Mr.Steep\source\repos\Money\obj\Debug\Money.pdb
